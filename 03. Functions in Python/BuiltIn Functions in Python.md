@@ -3,20 +3,20 @@
 Python provides a rich set of built-in functions that you can use to perform various tasks. Here is a comprehensive list of these functions:
 
 ## Type Conversion Functions
-- `int()`: Converts to an integer.
-- `float()`: Converts to a floating-point number.
-- `complex()`: Converts to a complex number.
-- `str()`: Converts to a string.
-- `repr()`: Converts to a string with a representation of the object.
-- `list()`: Converts to a list.
-- `tuple()`: Converts to a tuple.
-- `set()`: Converts to a set.
-- `frozenset()`: Converts to an immutable set.
-- `dict()`: Converts to a dictionary.
-- `bool()`: Converts to a boolean value.
-- `bytes()`: Converts to an immutable sequence of bytes.
-- `bytearray()`: Converts to a mutable sequence of bytes.
-- `memoryview()`: Converts to a memory view object.
+- **`int()`**: Converts to an integer.
+- **`float()`**: Converts to a floating-point number.
+- **`complex()`**: Converts to a complex number.
+- **`str()`**: Converts to a string.
+- **`repr()`**: Converts to a string with a representation of the object.
+- **`list()`**: Converts to a list.
+- **`tuple()`**: Converts to a tuple.
+- **`set()`**: Converts to a set.
+- **`frozenset()`**: Converts to an immutable set.
+- **`dict()`**: Converts to a dictionary.
+- **`bool()`**: Converts to a boolean value.
+- **`bytes()`**: Converts to an immutable sequence of bytes.
+- **`bytearray()`**: Converts to a mutable sequence of bytes.
+- **`memoryview()`**: Converts to a memory view object.
 
 ## Mathematical Functions
 - `abs()`: Returns the absolute value.
